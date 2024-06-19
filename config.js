@@ -11,8 +11,8 @@ global.botnumber = ""
 global.confirmCode = ""
 
 global.owner = [
-  ['5219992095479', '👑 Mystic - Creador 👑', true],
-  ['51940617554', '💫 Mystic - Collaborator 2 💫', true],
+  ['+79187653090', '👑 Mystic - Creador 👑', true],
+  ['+79187653090', '💫 Mystic - Collaborator 2 💫', true],
   ['51996089079', '💫 Mystic - Collaborator 3 💫', true],
   ['5218442286089', '💫 Mystic - Collaborator 4 💫', true],
   ['50246028932', '💫 Mystic - Collaborator 5 💫', true],
@@ -32,11 +32,6 @@ global.owner = [
   ['51906662557'],
   ['573183650526'], 
   ['5217441298510'], 
-  ['5217294888993'],
-  ['595992611272'],
-  ['5219992843892'],
-  ['573147616444'], 
-  ['5219991402134']
 ];
 
 global.suittag = ['5219993404349'];
